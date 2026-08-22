@@ -22,7 +22,7 @@ export const botConfig = {
     // 4 = Custom
     // 5 = Competing
     activities: [
-      {streaming
+      {
         name: "", // required by Discord API, not shown in the client
         state: "high asl",     // this is what people actually see
         type: 4,               // Custom
